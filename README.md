@@ -14,9 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" >
+![Pic](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV2MWV2cm92MjczcHI5NnJobm51MjZ6YXU2MXVsczBiamkzbmdyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
+  
+</div>
 
-
-## About 
+# Intro 
 hello i am faizan developer with 4 year of experiance in nodejs
 i think like a smart developer 
 ![Image](https://media.giphy.com/media/NTH8Mjsd74e3G2heti/giphy.gif?cid=790b761159r0brd8s4f1b4oejc3533yj6pse66sjtn3ow28y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
+## progaming language
+- Javascript/Typescript ![Javascript](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlNW5qMmpqN3lkbWVuaTY0bndkMnE3NGR4Zjc3bDRwNDd3a25iayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvFocn0wNMx0iv2rYz/giphy.gif)
+- Python ![Python](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMweG5qNm8xbmF4eGR0YmhsbGRjMDk2enMwa3locjd0bzV6Nmh2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif)
+- Go ![GO](https://media.giphy.com/media/DeqfmaWh6CQOxmbhDS/giphy.gif?cid=790b7611ruv1evrov273pr96rhnnu26zau61uls0bji3ngre&ep=v1_gifs_search&rid=giphy.gif&ct=g)
