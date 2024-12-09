@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## About 
+hello i am faizan developer with 4 year of experiance in nodejs
+i think like a smart developer 
+![Image](https://media.giphy.com/media/fUQ4rhUZJYiQsas6WD/giphy.gif?cid=790b76111ws4ih0u0swueo2nmhfupc431gu30bf4vp3cd039&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
