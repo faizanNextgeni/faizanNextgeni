@@ -27,6 +27,6 @@ I think like a smart developer
 </div>
 
 ## Progaming language
-- Javascript/Typescript <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlNW5qMmpqN3lkbWVuaTY0bndkMnE3NGR4Zjc3bDRwNDd3a25iayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvFocn0wNMx0iv2rYz/giphy.gif" alt="javascript" width="50px" />
-- Python <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMweG5qNm8xbmF4eGR0YmhsbGRjMDk2enMwa3locjd0bzV6Nmh2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" alt="python" width="50px" />
-- Go <img src="https://media.giphy.com/media/DeqfmaWh6CQOxmbhDS/giphy.gif?cid=790b7611ruv1evrov273pr96rhnnu26zau61uls0bji3ngre&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="python" width="50px" />
+- Javascript/Typescript <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndlNW5qMmpqN3lkbWVuaTY0bndkMnE3NGR4Zjc3bDRwNDd3a25iayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvFocn0wNMx0iv2rYz/giphy.gif" alt="javascript" width="20px" />
+- Python <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTMweG5qNm8xbmF4eGR0YmhsbGRjMDk2enMwa3locjd0bzV6Nmh2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" alt="python" width="20px" />
+- Go <img src="https://media.giphy.com/media/DeqfmaWh6CQOxmbhDS/giphy.gif?cid=790b7611ruv1evrov273pr96rhnnu26zau61uls0bji3ngre&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="python" width="20px" />
