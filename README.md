@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center" >
-  ![Pic](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV2MWV2cm92MjczcHI5NnJobm51MjZ6YXU2MXVsczBiamkzbmdyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnV2MWV2cm92MjczcHI5NnJobm51MjZ6YXU2MXVsczBiamkzbmdyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Cover" />
 </div>
 
 # Intro 
 hello i am faizan developer with 4 year of experiance in nodejs
 i think like a smart developer 
 <div align="center" >
-  ![Image](https://media.giphy.com/media/NTH8Mjsd74e3G2heti/giphy.gif?cid=790b761159r0brd8s4f1b4oejc3533yj6pse66sjtn3ow28y&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+  <img src="https://media.giphy.com/media/NTH8Mjsd74e3G2heti/giphy.gif?cid=790b761159r0brd8s4f1b4oejc3533yj6pse66sjtn3ow28y&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Intro"  />
 </div>
 
 ## progaming language
